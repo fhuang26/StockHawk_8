@@ -1,0 +1,15 @@
+<resources xmlns:xliff="http://schemas.android.com/apk/res/android">
+  <string name="app_name">股市鷹</string>
+  <string name="action_example">行動範例</string>
+  <string name="action_settings">設置</string>
+  <string name="action_change_units">單位轉換</string>
+  <string name="symbol_search">股票代碼搜尋</string>
+  <string name="content_test">尋找股票代碼</string>
+  <string name="add_button">增加股票代碼</string>
+  <string name="click_stock">顯示股票時間表</string>
+  <string name="input_hint"><xliff:g id="sample_stock_symbol">FB</xliff:g></string>
+  <string name="input_prefill"></string>
+  <string name="internet_not_available">需接通互聯網</string>
+  <string name="app_name_Chinese">股市鷹</string>
+  <string name="stock_exists">這支股票已存在</string>
+</resources>

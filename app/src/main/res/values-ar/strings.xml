@@ -1,0 +1,17 @@
+<resources xmlns:xliff="http://schemas.android.com/apk/res/android">
+  <string name="app_name"> الأسهم هوك </string>
+
+  <string name="action_example"> العمل سبيل المثال </string>
+
+  <string name="action_settings"> ضبط </string>
+  <string name="action_change_units"> وحدات التغيير </string>
+  <string name="symbol_search"> رمز البحث </string>
+  <string name="content_test"> بحث عن الأوراق المالية رمز </string>
+  <string name="add_button"> إضافة رمز السهم </string>
+  <string name="click_stock"> عرض سعر السهم على مر الزمن </string>
+  <string name="input_hint"><xliff:g id="sample_stock_symbol">FB</xliff:g></string>
+  <string name="input_prefill"></string>
+  <string name="internet_not_available" > يتطلب اتصال بالإنترنت </string>
+  <string name="app_name_Arabic"> الأسهم الصقور   </string>
+  <string name="stock_exists"> يتم حفظ هذه الأسهم بالفعل  </string>
+</resources>

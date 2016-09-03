@@ -1,0 +1,12 @@
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:initialKeyguardLayout="@layout/collection_widget"
+    android:initialLayout="@layout/collection_widget"
+    android:minResizeHeight="280dp"
+    android:minResizeWidth="190dp"
+    android:minHeight="280dp"
+    android:minWidth="190dp"
+    android:resizeMode="horizontal"
+    android:updatePeriodMillis="0"
+    android:widgetCategory="home_screen">
+
+</appwidget-provider>
