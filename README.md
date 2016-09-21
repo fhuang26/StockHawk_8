@@ -1,6 +1,6 @@
 # Stock Hawk
 
-Today (9/3), I installed Java JDK 8 and Android studio 2.1, and update Gradle to 2.14.1 for Stock Hawk project. It can compile (build) and run on my LG 4G phone (Android API 21) as follows. If it cannot build and run on your side, can you please let me know it fails to build or run, and error message? Thank you! I also load the repo StockHawk_8 back from github, and it can build and run.
+I installed Java JDK 8 and Android studio 2.1, and update Gradle to 2.14.1 for Stock Hawk project. It can compile (build) and run on my LG 4G phone (Android API 21) as follows.
 
 (1) When a user clicks on a stock quote in main screen, recyclerView listener catches the event
      and sends a service in StockIntentService to get stock prices over a time period from
